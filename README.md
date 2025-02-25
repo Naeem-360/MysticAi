@@ -19,3 +19,5 @@ How to use it:
 1. Get your github token for gpt-4o-mini
 2. make a dotenv file
 3. peaste the token on that file
+4. also change the application path according to your pc's path
+5. if u have any problem runing it contact me
