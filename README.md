@@ -18,4 +18,4 @@ I'm continuing to enhance its capabilities and would love to connect with others
 How to use it:
 1. Get your github token for gpt 4omini
 2. make a dotenv file
-3. peaste the token name on that file
+3. peaste the token on that file
