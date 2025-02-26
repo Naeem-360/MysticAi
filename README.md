@@ -23,7 +23,7 @@ Ensure you have the following installed before running MysticAI:
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/Naeem-360/mysticai.git
+git clone https://github.com/Naeem-360/MysticAi.git
 cd mysticai
 ```
 
